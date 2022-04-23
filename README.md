@@ -3,7 +3,7 @@ TextBus 富文本编辑器
 
 > 最新公告：
 >
-> TextBus 2.0 正在紧锣密鼓的开发中，近期即将开始内测，提供更好的组件开发体验，更简単的 API 接口，更高的性能，以及协同文档的支持，欢迎大家持续关注！
+> TextBus 2.0 已发布，扩展性更好，性能更佳，支持多人在线协同编辑，欢迎试用：[https://github.com/textbus/textbus](https://github.com/textbus/textbus) 
 
 TextBus 是一个通过自建数据模型、内置 Diff 算法、以数据为核心驱动的富文本编辑器。
 
@@ -57,7 +57,7 @@ editor.onChange.subscribe(() => {
 });
 ```
 ## 官网地址
-[TextBus 官网](https://textbus.tanboui.com)
+[TextBus 官网](https://textbus.io/v1/start)
 
 如果在官网还不能找到你想了解的问题，你可以加入 TextBus 的官方 QQ 群：786923770。你也可以直接扫码加入：
 
